@@ -23,4 +23,4 @@ To view the project, simply open the index.html file in your web browser.
 Contributing
 
 Contributions to this project are not currently being accepted, as this is intended as a personal learning project. However, feel free to use the code as inspiration for your own styling projects.
-![Discord Clone](https://lovely-ganache-aa93f4.netlify.app)
+[Discord Clone](https://lovely-ganache-aa93f4.netlify.app)
